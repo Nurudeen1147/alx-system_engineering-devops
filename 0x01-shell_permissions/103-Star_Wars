@@ -1,2 +1,2 @@
 #!/bin/bash
-video_player_name -vo caca StarWars IV episode
+video_player_name -vo caca StarWar

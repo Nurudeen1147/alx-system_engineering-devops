@@ -1,2 +1,2 @@
 #!/bin/bash
-vplayer -vo caca StarWar
+mplayer -vo caca StarWars_IV

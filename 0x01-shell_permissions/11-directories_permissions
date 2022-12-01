@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo find . -type d -exec chmod ugo+x my_dir
+find ./ -type d -execdir chmod ugo+x my_dir

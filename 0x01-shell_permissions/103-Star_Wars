@@ -1,2 +1,2 @@
 #!/bin/bash
-video_player_name -vo caca StarWar
+vplayer -vo caca StarWar

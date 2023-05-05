@@ -1,6 +1,4 @@
 #!/usr/bin/env bash
-
-# Script that listens on port 98 on localhost.
-# Connecting to localhost on port 98 using telnet
+# Listens on port 98 on localhost.
 
 nc -l localhost 98

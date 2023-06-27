@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# first debugging project!
+
+echo "ServerName localhost" >> /etc/apache2/apache2.conf
+service apache2 restart

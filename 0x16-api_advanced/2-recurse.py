@@ -1,4 +1,5 @@
-ning functions for working with the Reddit API.
+#!/usr/bin/python3
+'''The module contains functions for working with the Reddit API.
 '''
 import requests
 '''Reddit's base API URL.
